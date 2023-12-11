@@ -1,0 +1,587 @@
+#site-body.site-body-css #home .cover-photo .cover-photo-box span {
+  color: #cacaca;
+}
+body {
+  margin: 0;
+  overflow: scroll;
+}
+body > img {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  left: -99px;
+  top: -99px;
+}
+#site-body.public-hosting-container,
+#site-body.site-body-css.public-hosting-container {
+  background: #132843;
+}
+#site-body.public-hosting-container .password-container,
+#site-body.site-body-css.public-hosting-container .password-container {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2_navy-619f6e05def597d1dc827e982997b7842153473a2204c54bee6407d812f9932b.jpg)
+    top right no-repeat;
+  border: none;
+}
+#site-body.public-hosting-container .password-container h1.title,
+#site-body.site-body-css.public-hosting-container .password-container h1.title {
+  color: #fff;
+  overflow-wrap: break-word;
+}
+.win #site-body.public-hosting-container .password-container h1.title,
+.win
+  #site-body.site-body-css.public-hosting-container
+  .password-container
+  h1.title {
+  -webkit-text-fill-color: #fff !important;
+}
+#site-body.public-hosting-container .password-container h2.subtitle,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  h2.subtitle {
+  color: #fff;
+}
+#site-body.public-hosting-container .password-container h2.login,
+#site-body.site-body-css.public-hosting-container .password-container h2.login {
+  color: #fff;
+}
+#site-body.public-hosting-container .password-container .hr,
+#site-body.site-body-css.public-hosting-container .password-container .hr {
+  border-bottom: 1px solid #fff;
+}
+#site-body.public-hosting-container .password-container #guest-center-widget,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-center-widget {
+  background: rgba(90, 90, 90, 0.58);
+  border: none;
+}
+#site-body.public-hosting-container
+  .password-container
+  #guest-center-widget
+  p.coming-soon,
+#site-body.public-hosting-container
+  .password-container
+  #guest-center-widget
+  p.message,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-center-widget
+  p.coming-soon,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-center-widget
+  p.message {
+  color: #fff;
+}
+#site-body.public-hosting-container .password-container #guest-login-form label,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-login-form
+  label {
+  color: #fff !important;
+}
+#site-body.public-hosting-container
+  .password-container
+  #guest-login-form
+  input.main-btn,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-login-form
+  input.main-btn {
+  color: #fff;
+  background-image: none !important;
+  background-color: #000;
+  border: 1px solid black;
+  -webkit-appearance: none;
+  -webkit-border: 1px solid black;
+}
+#site-body.public-hosting-container
+  .password-container
+  #guest-login-form
+  input.main-btn:hover,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #guest-login-form
+  input.main-btn:hover {
+  color: #000;
+  background-color: #777;
+}
+#site-body.public-hosting-container
+  .password-container
+  #alert-box
+  h5.flash-alert,
+#site-body.site-body-css.public-hosting-container
+  .password-container
+  #alert-box
+  h5.flash-alert {
+  color: #c32626 !important;
+  background-color: #dab9b9;
+  border-color: #ff0000;
+}
+#site-body.guest-email-imager #main-image-part,
+#site-body.site-body-css.guest-email-imager #main-image-part {
+  background: #132843;
+  background-size: initial;
+}
+#site-body.guest-email-imager #main-image-part h1,
+#site-body.site-body-css.guest-email-imager #main-image-part h1 {
+  color: black;
+}
+#site-body.guest-email-imager #main-image-part h2,
+#site-body.site-body-css.guest-email-imager #main-image-part h2 {
+  color: black;
+}
+#site-body.guest-email-imager #main-image-part p.pbody,
+#site-body.site-body-css.guest-email-imager #main-image-part p.pbody {
+  color: black;
+}
+#site-body.guest-email-imager #main-image-part .outer,
+#site-body.site-body-css.guest-email-imager #main-image-part .outer {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2_navy-619f6e05def597d1dc827e982997b7842153473a2204c54bee6407d812f9932b.jpg)
+    top right no-repeat;
+  background-size: initial;
+  border: none;
+}
+#site-body.guest-email-imager #main-image-part .inner,
+#site-body.site-body-css.guest-email-imager #main-image-part .inner {
+  padding: 25px;
+  border: none;
+  background: white;
+}
+#site-body hr,
+#site-body.site-body-css hr {
+  color: #fff;
+  border-color: #fff;
+}
+#site-body button,
+#site-body a.button,
+#site-body.site-body-css button,
+#site-body.site-body-css a.button {
+  text-shadow: none;
+  color: #fff;
+  background: #ccc;
+}
+#site-body button:hover,
+#site-body a.button:hover,
+#site-body.site-body-css button:hover,
+#site-body.site-body-css a.button:hover {
+  background: black;
+  border: none;
+}
+#site-body section,
+#site-body.site-body-css section {
+  background-color: #fff;
+}
+#site-body select,
+#site-body.site-body-css select {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMTJweCIgeT0iMHB4IiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIzcHgiIHZpZXdCb3g9IjAgMCA2IDMiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDYgMyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBvbHlnb24gZmlsbD0id2hpdGUiIHBvaW50cz0iNS45OTIsMCAyLjk5MiwzIC0wLjAwOCwwICIvPjwvc3ZnPg==);
+}
+#site-body p.bridal-party-names,
+#site-body.site-body-css p.bridal-party-names {
+  color: #666;
+}
+#site-body p.bridal-party-names a,
+#site-body.site-body-css p.bridal-party-names a {
+  color: #666;
+}
+#site-body p.bridal-party-names a:hover,
+#site-body p.bridal-party-names a.active,
+#site-body.site-body-css p.bridal-party-names a:hover,
+#site-body.site-body-css p.bridal-party-names a.active {
+  color: #181818;
+  text-decoration: underline;
+}
+#site-body .dark-section,
+#site-body.site-body-css .dark-section {
+  color: #fff;
+}
+#site-body .dark-section h1,
+#site-body .dark-section h2,
+#site-body .dark-section h3,
+#site-body .dark-section h4,
+#site-body .dark-section h5,
+#site-body.site-body-css .dark-section h1,
+#site-body.site-body-css .dark-section h2,
+#site-body.site-body-css .dark-section h3,
+#site-body.site-body-css .dark-section h4,
+#site-body.site-body-css .dark-section h5 {
+  color: #fff;
+}
+#site-body .dark-section hr,
+#site-body.site-body-css .dark-section hr {
+  color: #fff;
+  border-color: #fff;
+}
+#site-body .dark-section .location-tabs,
+#site-body.site-body-css .dark-section .location-tabs {
+  color: #666;
+}
+#site-body .dark-section .location-tabs a,
+#site-body.site-body-css .dark-section .location-tabs a {
+  color: #666;
+}
+#site-body .dark-section .location-tabs a:hover,
+#site-body .dark-section .location-tabs a.selected,
+#site-body.site-body-css .dark-section .location-tabs a:hover,
+#site-body.site-body-css .dark-section .location-tabs a.selected {
+  color: #181818;
+}
+#site-body .dark-section #location-cards .card,
+#site-body.site-body-css .dark-section #location-cards .card {
+  background-color: #fff;
+}
+#site-body .dark-section #location-cards .card .image,
+#site-body.site-body-css .dark-section #location-cards .card .image {
+  background-color: #ccc;
+}
+#site-body .dark-section #location-cards .card .content,
+#site-body.site-body-css .dark-section #location-cards .card .content {
+  color: #181818;
+}
+#site-body .cover-photo hr,
+#site-body.site-body-css .cover-photo hr {
+  color: #fff;
+  border-color: #fff;
+}
+#site-body .cover-photo h1,
+#site-body.site-body-css .cover-photo h1 {
+  color: #fff;
+}
+#site-body .cover-photo span,
+#site-body.site-body-css .cover-photo span {
+  color: #444444;
+}
+#site-body .nav-bar,
+#site-body.site-body-css .nav-bar {
+  background-color: #fff;
+}
+#site-body .nav-bar ul li a,
+#site-body.site-body-css .nav-bar ul li a {
+  color: #000;
+}
+#site-body .bridal-info-card,
+#site-body.site-body-css .bridal-info-card {
+  border-color: 1px solid #ccc;
+  border-top-color: 8px solid #181818;
+  background-color: #fff;
+}
+#site-body img.section-header-image,
+#site-body.site-body-css img.section-header-image {
+  border-color: #fff;
+}
+#site-body #registry .rsvp-links a:hover,
+#site-body.site-body-css #registry .rsvp-links a:hover {
+  color: #666;
+}
+#site-body #accommodations .hotel-picture,
+#site-body.site-body-css #accommodations .hotel-picture {
+  background: #666;
+}
+#site-body #accommodations .hotel-picture .hotel-label,
+#site-body.site-body-css #accommodations .hotel-picture .hotel-label {
+  background: #000;
+  opacity: 0.6;
+}
+#site-body #accommodations .hotel-picture .hotel-label h5,
+#site-body.site-body-css #accommodations .hotel-picture .hotel-label h5 {
+  color: #fff;
+  opacity: 0.8;
+}
+#site-body #accommodations .back,
+#site-body.site-body-css #accommodations .back {
+  outline-color: #ccc;
+  background-color: #fff;
+}
+#site-body #schedule div #schedule-slider,
+#site-body.site-body-css #schedule div #schedule-slider {
+  background-color: #fff;
+}
+#site-body #schedule div .content,
+#site-body.site-body-css #schedule div .content {
+  outline-color: #ccc;
+}
+#site-body #schedule div ul.navigation li .circle-nav,
+#site-body.site-body-css #schedule div ul.navigation li .circle-nav {
+  border-color: #181818;
+  background-color: #fff;
+}
+#site-body #schedule div ul.navigation li .circle-nav.active,
+#site-body.site-body-css #schedule div ul.navigation li .circle-nav.active {
+  background-color: #181818;
+}
+#site-body #schedule div ul.navigation li.flex-active .circle-nav,
+#site-body.site-body-css
+  #schedule
+  div
+  ul.navigation
+  li.flex-active
+  .circle-nav {
+  background-color: #181818;
+}
+#site-body #rsvp form .highlight span,
+#site-body #rsvp div#rsvp-form .highlight span,
+#site-body.site-body-css #rsvp form .highlight span,
+#site-body.site-body-css #rsvp div#rsvp-form .highlight span {
+  color: #dd2d2e;
+}
+#site-body #rsvp form input[type="text"],
+#site-body #rsvp form input[type="text"]:focus,
+#site-body #rsvp form textarea,
+#site-body #rsvp form textarea:focus,
+#site-body #rsvp div#rsvp-form input[type="text"],
+#site-body #rsvp div#rsvp-form input[type="text"]:focus,
+#site-body #rsvp div#rsvp-form textarea,
+#site-body #rsvp div#rsvp-form textarea:focus,
+#site-body.site-body-css #rsvp form input[type="text"],
+#site-body.site-body-css #rsvp form input[type="text"]:focus,
+#site-body.site-body-css #rsvp form textarea,
+#site-body.site-body-css #rsvp form textarea:focus,
+#site-body.site-body-css #rsvp div#rsvp-form input[type="text"],
+#site-body.site-body-css #rsvp div#rsvp-form input[type="text"]:focus,
+#site-body.site-body-css #rsvp div#rsvp-form textarea,
+#site-body.site-body-css #rsvp div#rsvp-form textarea:focus {
+  color: #444444;
+  border-bottom-color: 1px solid #181818;
+}
+#site-body #rsvp form textarea,
+#site-body #rsvp form textarea:focus,
+#site-body #rsvp div#rsvp-form textarea,
+#site-body #rsvp div#rsvp-form textarea:focus,
+#site-body.site-body-css #rsvp form textarea,
+#site-body.site-body-css #rsvp form textarea:focus,
+#site-body.site-body-css #rsvp div#rsvp-form textarea,
+#site-body.site-body-css #rsvp div#rsvp-form textarea:focus {
+  border-color: 1px solid #ccc;
+}
+#site-body #rsvp form #days #select-days,
+#site-body #rsvp div#rsvp-form #days #select-days,
+#site-body.site-body-css #rsvp form #days #select-days,
+#site-body.site-body-css #rsvp div#rsvp-form #days #select-days {
+  background-color: rgba(50, 50, 50, 0.9);
+  color: #fff;
+}
+#site-body #rsvp form select,
+#site-body #rsvp div#rsvp-form select,
+#site-body.site-body-css #rsvp form select,
+#site-body.site-body-css #rsvp div#rsvp-form select {
+  background-color: #333;
+  color: #fff;
+}
+#site-body #rsvp form select span.highlight,
+#site-body #rsvp div#rsvp-form select span.highlight,
+#site-body.site-body-css #rsvp form select span.highlight,
+#site-body.site-body-css #rsvp div#rsvp-form select span.highlight {
+  color: #dd2d2e;
+}
+@font-face {
+  font-family: "ProximaNova-Regular";
+  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
+  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
+      format("embedded-opentype"),
+    url(https://assets.rileygrey.com/assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
+      format("woff"),
+    url(https://assets.rileygrey.com/assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
+      format("truetype");
+}
+@font-face {
+  font-family: "Playfair Display - WKHTMLFixed";
+  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot);
+  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot?#iefix)
+      format("embedded-opentype"),
+    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7b7a6eb4060d2a5df83c2d6c25a08d7ba7e328b7d3afe8940f4e97c3fa8d3ac4.woff2)
+      format("woff2"),
+    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-92c655891c5b4e718447b601b3188f170c4fccb5ae5e0846dd886c69ca9cdd2e.woff)
+      format("woff"),
+    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7c5926b13afeba0aed56a81db043afb659334979a6901b0608ccdf43925ec63c.ttf)
+      format("truetype");
+}
+#site-body h2,
+#site-body.site-body-css h2 {
+  color: #132843;
+}
+#site-body #misc a,
+#site-body #couple a,
+#site-body #location a,
+#site-body.site-body-css #misc a,
+#site-body.site-body-css #couple a,
+#site-body.site-body-css #location a {
+  color: #ccc;
+}
+#site-body #misc a:hover,
+#site-body #couple a:hover,
+#site-body #location a:hover,
+#site-body.site-body-css #misc a:hover,
+#site-body.site-body-css #couple a:hover,
+#site-body.site-body-css #location a:hover {
+  color: #e6e6e6;
+}
+#site-body #weddingparty .bridal-info-card a,
+#site-body.site-body-css #weddingparty .bridal-info-card a {
+  color: #ccc;
+}
+#site-body #weddingparty .bridal-info-card a:hover,
+#site-body.site-body-css #weddingparty .bridal-info-card a:hover {
+  color: #e6e6e6;
+}
+#site-body #home,
+#site-body #couple,
+#site-body #misc,
+#site-body.site-body-css #home,
+#site-body.site-body-css #couple,
+#site-body.site-body-css #misc {
+  background-color: #132843;
+}
+#site-body #couple h2,
+#site-body #couple h3,
+#site-body #couple p,
+#site-body #misc h2,
+#site-body #misc h3,
+#site-body #misc p,
+#site-body.site-body-css #couple h2,
+#site-body.site-body-css #couple h3,
+#site-body.site-body-css #couple p,
+#site-body.site-body-css #misc h2,
+#site-body.site-body-css #misc h3,
+#site-body.site-body-css #misc p {
+  color: #faf3ed !important;
+}
+#site-body #couple,
+#site-body #misc,
+#site-body.site-body-css #couple,
+#site-body.site-body-css #misc {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/whiteflower-bg-left-navy-51fd0439250a8f981bcffca58358a48c7a145f3d94d6b196d4053af0b9002ad6.jpg)
+    top left no-repeat #132843;
+}
+#site-body #weddingparty,
+#site-body.site-body-css #weddingparty {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/whiteflower-bg-left-navy-51fd0439250a8f981bcffca58358a48c7a145f3d94d6b196d4053af0b9002ad6.jpg)
+    #132843 bottom left no-repeat;
+}
+#site-body #weddingparty h2,
+#site-body #weddingparty h3,
+#site-body #weddingparty p,
+#site-body.site-body-css #weddingparty h2,
+#site-body.site-body-css #weddingparty h3,
+#site-body.site-body-css #weddingparty p {
+  color: #faf3ed !important;
+}
+#site-body #registry .rsvp-links a:hover,
+#site-body.site-body-css #registry .rsvp-links a:hover {
+  color: #666;
+}
+#site-body p.bridal-party-names,
+#site-body.site-body-css p.bridal-party-names {
+  color: #faf3ed;
+}
+#site-body p.bridal-party-names a,
+#site-body.site-body-css p.bridal-party-names a {
+  color: #faf3ed;
+  opacity: 0.7;
+}
+#site-body p.bridal-party-names a:hover,
+#site-body p.bridal-party-names a.active,
+#site-body.site-body-css p.bridal-party-names a:hover,
+#site-body.site-body-css p.bridal-party-names a.active {
+  color: #fff;
+  opacity: 1;
+}
+#site-body #location,
+#site-body.site-body-css #location {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/whiteflower-bg-left-navy-51fd0439250a8f981bcffca58358a48c7a145f3d94d6b196d4053af0b9002ad6.jpg)
+    #132843 top left no-repeat;
+}
+#site-body #location p.location-tabs a.location-tab-link,
+#site-body.site-body-css #location p.location-tabs a.location-tab-link {
+  color: #666;
+}
+#site-body #location p.location-tabs a.location-tab-link.active,
+#site-body.site-body-css #location p.location-tabs a.location-tab-link.active {
+  color: blue !important;
+}
+#site-body #location .content a,
+#site-body.site-body-css #location .content a {
+  color: #000 !important;
+}
+#site-body .cover-photo,
+#site-body.site-body-css .cover-photo {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2_navy-619f6e05def597d1dc827e982997b7842153473a2204c54bee6407d812f9932b.jpg)
+    bottom right #132843 no-repeat;
+}
+#site-body .cover-photo .cover-photo-box,
+#site-body.site-body-css .cover-photo .cover-photo-box {
+  color: #faf3ed;
+}
+#site-body .cover-photo h1,
+#site-body.site-body-css .cover-photo h1 {
+  color: #faf3ed;
+}
+#site-body #about,
+#site-body.site-body-css #about {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+    no-repeat #fff;
+  background-position: 5% 80%;
+}
+#site-body #about.right,
+#site-body.site-body-css #about.right {
+  background-position: 95% 80%;
+}
+#site-body .bridal-info-card,
+#site-body.site-body-css .bridal-info-card {
+  border-top-color: rgba(255, 255, 255, 0.4);
+  color: #faf3ed;
+  background: transparent;
+}
+#site-body .bridal-info-card h4,
+#site-body.site-body-css .bridal-info-card h4 {
+  color: #faf3ed;
+}
+#site-body img.section-header-image,
+#site-body.site-body-css img.section-header-image {
+  border-color: #faf3ed;
+}
+#site-body #accommodations .back .content,
+#site-body.site-body-css #accommodations .back .content {
+  background-color: #fff;
+}
+#site-body #schedule,
+#site-body #accommodations,
+#site-body #video,
+#site-body #gallery,
+#site-body.site-body-css #schedule,
+#site-body.site-body-css #accommodations,
+#site-body.site-body-css #video,
+#site-body.site-body-css #gallery {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+    no-repeat 8% 86% #fff;
+}
+#site-body #rsvp,
+#site-body.site-body-css #rsvp {
+  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+    no-repeat 8% 98% #fff;
+}
+#site-body #schedule div .content,
+#site-body.site-body-css #schedule div .content {
+  background-color: #fff;
+}
+#site-body #rsvp form textarea,
+#site-body #rsvp form textarea:focus,
+#site-body #rsvp div#rsvp-form textarea,
+#site-body #rsvp div#rsvp-form textarea:focus,
+#site-body.site-body-css #rsvp form textarea,
+#site-body.site-body-css #rsvp form textarea:focus,
+#site-body.site-body-css #rsvp div#rsvp-form textarea,
+#site-body.site-body-css #rsvp div#rsvp-form textarea:focus {
+  border-color: #ccc;
+}
+#site-body #rsvp form #days #select-days,
+#site-body #rsvp div#rsvp-form #days #select-days,
+#site-body.site-body-css #rsvp form #days #select-days,
+#site-body.site-body-css #rsvp div#rsvp-form #days #select-days {
+  background-color: #333;
+}
+#site-body #rsvp form .optional span,
+#site-body #rsvp div#rsvp-form .optional span,
+#site-body.site-body-css #rsvp form .optional span,
+#site-body.site-body-css #rsvp div#rsvp-form .optional span {
+  color: #fff;
+}
