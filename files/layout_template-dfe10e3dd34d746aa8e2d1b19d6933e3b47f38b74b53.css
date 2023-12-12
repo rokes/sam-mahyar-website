@@ -47,7 +47,7 @@ body > img {
   width: auto;
   min-width: 0 !important;
   height: 100%;
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
+  background: url(assets/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
     top right no-repeat;
   border: none;
 }
@@ -305,7 +305,7 @@ body > img {
 #site-body.guest-email-imager #main-image-part .outer,
 #site-body.site-body-css.guest-email-imager #main-image-part .outer {
   padding: 40px;
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
+  background: url(assets/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
     top right no-repeat;
   background-size: initial;
   border: none;
@@ -868,7 +868,7 @@ html.msie8 #site-body.site-body-css .cover-photo span {
   width: 208px;
   height: 24px;
   display: inline-block;
-  background-image: url(https://assets.rileygrey.com/assets/rg_powered_by_logo_black-3e29b20c768f8d8ff2e0d2f70ce73e4791f4a897067352d513df12133c8094ed.png);
+  background-image: url(assets/rg_powered_by_logo_black-3e29b20c768f8d8ff2e0d2f70ce73e4791f4a897067352d513df12133c8094ed.png);
 }
 #site-body .powered-by span#photo-credits,
 #site-body.site-body-css .powered-by span#photo-credits {
@@ -876,24 +876,24 @@ html.msie8 #site-body.site-body-css .cover-photo span {
 }
 @font-face {
   font-family: "ProximaNova-Regular";
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
+    url(assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
+    url(assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
       format("truetype");
 }
 @font-face {
   font-family: "Playfair Display - WKHTMLFixed";
-  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot);
-  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot?#iefix)
+  src: url(assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot);
+  src: url(assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7b7a6eb4060d2a5df83c2d6c25a08d7ba7e328b7d3afe8940f4e97c3fa8d3ac4.woff2)
+    url(assets/PlayfairDisplay-Regular-7b7a6eb4060d2a5df83c2d6c25a08d7ba7e328b7d3afe8940f4e97c3fa8d3ac4.woff2)
       format("woff2"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-92c655891c5b4e718447b601b3188f170c4fccb5ae5e0846dd886c69ca9cdd2e.woff)
+    url(assets/PlayfairDisplay-Regular-92c655891c5b4e718447b601b3188f170c4fccb5ae5e0846dd886c69ca9cdd2e.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7c5926b13afeba0aed56a81db043afb659334979a6901b0608ccdf43925ec63c.ttf)
+    url(assets/PlayfairDisplay-Regular-7c5926b13afeba0aed56a81db043afb659334979a6901b0608ccdf43925ec63c.ttf)
       format("truetype");
 }
 body.paper-invite-imager #site-body.site-body-css.paper-invite-imager * {
@@ -1237,12 +1237,12 @@ body.paper-invite-imager #site-body.site-body-css.paper-invite-imager.insert {
 #site-body #misc,
 #site-body.site-body-css #couple,
 #site-body.site-body-css #misc {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/whiteflower-bg-left-f4d376097240383ae36ec835e535bfbc2ae85b3fa246e07a052dd8a6949daa3b.jpg)
+  background: url(assets/whiteflower-bg-left-f4d376097240383ae36ec835e535bfbc2ae85b3fa246e07a052dd8a6949daa3b.jpg)
     top left no-repeat #000;
 }
 #site-body #weddingparty,
 #site-body.site-body-css #weddingparty {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/whiteflower-bg-left-f4d376097240383ae36ec835e535bfbc2ae85b3fa246e07a052dd8a6949daa3b.jpg)
+  background: url(assets/whiteflower-bg-left-f4d376097240383ae36ec835e535bfbc2ae85b3fa246e07a052dd8a6949daa3b.jpg)
     #000 bottom left no-repeat;
 }
 #site-body #location h2,
@@ -1264,7 +1264,7 @@ body.paper-invite-imager #site-body.site-body-css.paper-invite-imager.insert {
 }
 #site-body .cover-photo,
 #site-body.site-body-css .cover-photo {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
+  background: url(assets/big_flower_2-2ac7f7c84fcac296ba8d3b489328cdeae1ee93de16561e17ec03584341f8db39.jpg)
     bottom right #000 no-repeat;
   height: 546px;
   padding-top: 170px;
@@ -1280,7 +1280,7 @@ body.paper-invite-imager #site-body.site-body-css.paper-invite-imager.insert {
 }
 #site-body #about,
 #site-body.site-body-css #about {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+  background: url(assets/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
     no-repeat #fff;
   background-position: 5% 80%;
 }
@@ -1314,12 +1314,12 @@ body.paper-invite-imager #site-body.site-body-css.paper-invite-imager.insert {
 #site-body.site-body-css #accommodations,
 #site-body.site-body-css #video,
 #site-body.site-body-css #gallery {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+  background: url(assets/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
     no-repeat 8% 86% #fff;
 }
 #site-body #rsvp,
 #site-body.site-body-css #rsvp {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/flowers/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
+  background: url(assets/cut-f8715006cbd17c4e4fceeed00998d517055590a7c35cdc8b94641465f8eecffd.png)
     no-repeat 8% 98% #fff;
 }
 #site-body #rsvp form textarea,

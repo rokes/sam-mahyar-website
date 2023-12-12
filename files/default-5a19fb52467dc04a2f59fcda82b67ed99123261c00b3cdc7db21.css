@@ -1,36 +1,36 @@
-@import url(//fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic);
-@import url(//fonts.googleapis.com/css?family=Crimson+Text:400,700);
+@import url(./playfair-display.css);
+@import url(./crimson_text.css);
 @font-face {
   font-family: "luxus_brutregular";
-  src: url(https://assets.rileygrey.com/assets/phospho_-_luxusbrut-webfont-b7a78aae59f930ba8ae9258e335581c69dc96114ca4dae9f10d942fef7f7d29e.eot);
-  src: url(https://assets.rileygrey.com/assets/phospho_-_luxusbrut-webfont-b7a78aae59f930ba8ae9258e335581c69dc96114ca4dae9f10d942fef7f7d29e.eot?#iefix)
+  src: url(assets/phospho_-_luxusbrut-webfont-b7a78aae59f930ba8ae9258e335581c69dc96114ca4dae9f10d942fef7f7d29e.eot);
+  src: url(assets/phospho_-_luxusbrut-webfont-b7a78aae59f930ba8ae9258e335581c69dc96114ca4dae9f10d942fef7f7d29e.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/phospho_-_luxusbrut-webfont-d217170c75563d32aa3d63b2ceb5eb4b9d741116890408a1a6aa28a5d4539e70.woff)
+    url(assets/phospho_-_luxusbrut-webfont-d217170c75563d32aa3d63b2ceb5eb4b9d741116890408a1a6aa28a5d4539e70.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/phospho_-_luxusbrut-webfont-3dbd1eebf13c4eeab5a9acc9d5399f0d00fe2f0f1b020f10ffd1513eeec3253a.ttf)
+    url(assets/phospho_-_luxusbrut-webfont-3dbd1eebf13c4eeab5a9acc9d5399f0d00fe2f0f1b020f10ffd1513eeec3253a.ttf)
       format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "ProximaNova-Regular";
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
+    url(assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
+    url(assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
       format("truetype");
 }
 @font-face {
   font-family: "Merriweather";
-  src: url(https://assets.rileygrey.com/assets/MerriweatherLight-b4487e94438f013cb131d71387facde65c92fef8c523263fe379a8fab4fcc48f.eot);
-  src: url(https://assets.rileygrey.com/assets/MerriweatherLight-b4487e94438f013cb131d71387facde65c92fef8c523263fe379a8fab4fcc48f.eot?#iefix)
+  src: url(assets/MerriweatherLight-b4487e94438f013cb131d71387facde65c92fef8c523263fe379a8fab4fcc48f.eot);
+  src: url(assets/MerriweatherLight-b4487e94438f013cb131d71387facde65c92fef8c523263fe379a8fab4fcc48f.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/MerriweatherLight-4cda9573da9f7152ceb2f190c3aff75fa4e1d00847e7abe3c58c279ea49716db.woff2)
+    url(assets/MerriweatherLight-4cda9573da9f7152ceb2f190c3aff75fa4e1d00847e7abe3c58c279ea49716db.woff2)
       format("woff2"),
-    url(https://assets.rileygrey.com/assets/MerriweatherLight-efdad3cf27a1f4bb60e71ac44482251a0babc3e594634383aca3723371888a57.woff)
+    url(assets/MerriweatherLight-efdad3cf27a1f4bb60e71ac44482251a0babc3e594634383aca3723371888a57.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/MerriweatherLight-7a6c0ea4fc74030d3dacb0d6735308d71fdbb947c975a1ebf8360875920aadf1.ttf)
+    url(assets/MerriweatherLight-7a6c0ea4fc74030d3dacb0d6735308d71fdbb947c975a1ebf8360875920aadf1.ttf)
       format("truetype");
 }

@@ -431,24 +431,24 @@ body > img {
 }
 @font-face {
   font-family: "ProximaNova-Regular";
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
-  src: url(https://assets.rileygrey.com/assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot);
+  src: url(assets/279EF0_8_0-67e6de2c11ec4a7b4ad1c7f35f60e481d9b3e8f0a2bffaa63d481168db813151.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
+    url(assets/279EF0_8_0-b5721379daac8c7ed98fe2203746f628c9c29ad413a1624f6b97088667aef4bb.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
+    url(assets/279EF0_8_0-02ffe7b3304b8ab81c8677fd02ab03f05c50575bf6dba96b6349354f4d85161e.ttf)
       format("truetype");
 }
 @font-face {
   font-family: "Playfair Display - WKHTMLFixed";
-  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot);
-  src: url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot?#iefix)
+  src: url(assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot);
+  src: url(assets/PlayfairDisplay-Regular-340bcdb24a5ae310fb9e893db3c92536951567685fa6c94aba863f90c2a6dd61.eot?#iefix)
       format("embedded-opentype"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7b7a6eb4060d2a5df83c2d6c25a08d7ba7e328b7d3afe8940f4e97c3fa8d3ac4.woff2)
+    url(assets/PlayfairDisplay-Regular-7b7a6eb4060d2a5df83c2d6c25a08d7ba7e328b7d3afe8940f4e97c3fa8d3ac4.woff2)
       format("woff2"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-92c655891c5b4e718447b601b3188f170c4fccb5ae5e0846dd886c69ca9cdd2e.woff)
+    url(assets/PlayfairDisplay-Regular-92c655891c5b4e718447b601b3188f170c4fccb5ae5e0846dd886c69ca9cdd2e.woff)
       format("woff"),
-    url(https://assets.rileygrey.com/assets/PlayfairDisplay-Regular-7c5926b13afeba0aed56a81db043afb659334979a6901b0608ccdf43925ec63c.ttf)
+    url(assets/PlayfairDisplay-Regular-7c5926b13afeba0aed56a81db043afb659334979a6901b0608ccdf43925ec63c.ttf)
       format("truetype");
 }
 #site-body *,

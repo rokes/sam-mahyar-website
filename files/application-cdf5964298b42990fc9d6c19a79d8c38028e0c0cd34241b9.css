@@ -69,7 +69,7 @@
 .fancybox-close,
 .fancybox-prev span,
 .fancybox-next span {
-  background-image: url(https://assets.rileygrey.com/assets/fancybox_sprite-a035795d8ad52fd6b87eadb5c438cfb1a96cc050e9c227d328fed528991dc394.png);
+  background-image: url(assets/fancybox_sprite-a035795d8ad52fd6b87eadb5c438cfb1a96cc050e9c227d328fed528991dc394.png);
 }
 #fancybox-loading {
   position: fixed;
@@ -85,7 +85,7 @@
 #fancybox-loading div {
   width: 44px;
   height: 44px;
-  background: url(https://assets.rileygrey.com/assets/fancybox_loading-a051fa838e3bb1eb19d28022ba7ab367043e811144d48b679edd6507bb8045c8.gif)
+  background: url(assets/fancybox_loading-a051fa838e3bb1eb19d28022ba7ab367043e811144d48b679edd6507bb8045c8.gif)
     center center no-repeat;
 }
 .fancybox-close {
@@ -105,7 +105,7 @@
   cursor: pointer;
   text-decoration: none;
   background: transparent
-    url(https://assets.rileygrey.com/assets/blank-16dc6871d783f3ad2114a6bd8770e41403c9eb50713d25677e3e7651886b5db5.gif);
+    url(assets/blank-16dc6871d783f3ad2114a6bd8770e41403c9eb50713d25677e3e7651886b5db5.gif);
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   z-index: 8040;
 }
@@ -162,7 +162,7 @@
   overflow: hidden;
   display: none;
   z-index: 8010;
-  background: url(https://assets.rileygrey.com/assets/fancybox_overlay-f062c4137cedcd728f3a3ec435aea8c614d20f97d9d415f716e380d367a65aad.png);
+  background: url(assets/fancybox_overlay-f062c4137cedcd728f3a3ec435aea8c614d20f97d9d415f716e380d367a65aad.png);
 }
 .fancybox-overlay-fixed {
   position: fixed;
@@ -230,11 +230,11 @@
   .fancybox-close,
   .fancybox-prev span,
   .fancybox-next span {
-    background-image: url(https://assets.rileygrey.com/assets/fancybox_sprite@2x-700cc5e026f2244477563edd02340480e23412cda20e533cc2994b5d1b589f44.png);
+    background-image: url(assets/fancybox_sprite@2x-700cc5e026f2244477563edd02340480e23412cda20e533cc2994b5d1b589f44.png);
     background-size: 44px 152px;
   }
   #fancybox-loading div {
-    background-image: url(https://assets.rileygrey.com/assets/fancybox_loading@2x-3f7c670bb028f3560b2e0d41dca1e8638d254099a9a4f6543b30d144f70136e2.gif);
+    background-image: url(assets/fancybox_loading@2x-3f7c670bb028f3560b2e0d41dca1e8638d254099a9a4f6543b30d144f70136e2.gif);
     background-size: 24px 24px;
   }
 }
@@ -320,7 +320,7 @@
   height: 30px;
   text-indent: -9999px;
   background-color: transparent;
-  background-image: url(https://assets.rileygrey.com/assets/fancybox_buttons-b77db4ccaa6b77e34835e5a1919cef19ec2bc8c7874d547c16da71316b4373d2.png);
+  background-image: url(assets/fancybox_buttons-b77db4ccaa6b77e34835e5a1919cef19ec2bc8c7874d547c16da71316b4373d2.png);
   background-repeat: no-repeat;
   outline: none;
   opacity: 0.8;
@@ -419,7 +419,7 @@
   position: absolute;
   width: 340px;
   height: 340px;
-  background: #f5e9bc url(https://assets.rileygrey.com/../images/noise.png)
+  background: #f5e9bc url(assets/noise.png)
     repeat top left;
   border: 10px solid #452716;
   border-radius: 50%;
@@ -434,7 +434,7 @@
   line-height: 210px;
   width: 240px;
   height: 240px;
-  background: #452716 url(https://assets.rileygrey.com/../images/noise.png)
+  background: #452716 url(assets/noise.png)
     repeat top left;
   border-radius: 50%;
   position: absolute;
@@ -1466,14 +1466,14 @@ body {
 @font-face {
   #site-body {
     font-family: "flexslider-icon";
-    src: url(https://assets.rileygrey.com/assets/flexslider-icon-27995c8e5d4793f9ef65c7a2e3625325204a84d26565ce9b685e53ad20070439.eot);
-    src: url(https://assets.rileygrey.com/assets/flexslider-icon-27995c8e5d4793f9ef65c7a2e3625325204a84d26565ce9b685e53ad20070439.eot?#iefix)
+    src: url(assets/flexslider-icon-27995c8e5d4793f9ef65c7a2e3625325204a84d26565ce9b685e53ad20070439.eot);
+    src: url(assets/flexslider-icon-27995c8e5d4793f9ef65c7a2e3625325204a84d26565ce9b685e53ad20070439.eot?#iefix)
         format("embedded-opentype"),
-      url(https://assets.rileygrey.com/assets/flexslider-icon-fdac682fc854457293c300375cb0253bc68cdb54a15be9b702c5d693c2385370.woff)
+      url(assets/flexslider-icon-fdac682fc854457293c300375cb0253bc68cdb54a15be9b702c5d693c2385370.woff)
         format("woff"),
-      url(https://assets.rileygrey.com/assets/flexslider-icon-ae8e9f905941f0ed3a25da414b2c7354b39166b4fc752ae271a8b4b4b75c19d9.ttf)
+      url(assets/flexslider-icon-ae8e9f905941f0ed3a25da414b2c7354b39166b4fc752ae271a8b4b4b75c19d9.ttf)
         format("truetype"),
-      url(https://assets.rileygrey.com/assets/flexslider-icon-92355f3e4dbb73b0d35eb789a836214c252768f7fa158b5d8fe37174d300607a.svg#flexslider-icon)
+      url(assets/flexslider-icon-92355f3e4dbb73b0d35eb789a836214c252768f7fa158b5d8fe37174d300607a.svg#flexslider-icon)
         format("svg");
     font-weight: normal;
     font-style: normal;
@@ -1785,11 +1785,11 @@ body {
   content: none;
 }
 #site-body #gallery .flex-direction-nav .flex-prev {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/general_slider_left_arrow-fb0f00ef9a5bf6b105bb42793b4f5b61204c13de6e5c61475849a1cefe93b2ae.png)
+  background: url(assets/general_slider_left_arrow-fb0f00ef9a5bf6b105bb42793b4f5b61204c13de6e5c61475849a1cefe93b2ae.png)
     no-repeat;
 }
 #site-body #gallery .flex-direction-nav .flex-next {
-  background: url(https://assets.rileygrey.com/assets/rileyandgrey/images/general_slider_right_arrow-7a8d0ffd734766cefb97f88a85b9b1cd98436918ce13369340dd09cdcf1bb453.png)
+  background: url(assets/general_slider_right_arrow-7a8d0ffd734766cefb97f88a85b9b1cd98436918ce13369340dd09cdcf1bb453.png)
     no-repeat;
 }
 #site-body #location a.location-tab-link {
